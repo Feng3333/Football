@@ -1,2 +1,2 @@
 # Football
-Football tactics
+Mainly my personal football tactical understanding
